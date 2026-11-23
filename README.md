@@ -55,6 +55,12 @@ or
 npx add-skill addyosmani/web-quality-skills
 ```
 
+Or install them with the GitHub CLI:
+
+```bash
+gh skill install addyosmani/web-quality-skills
+```
+
 Or manually:
 
 ```bash
